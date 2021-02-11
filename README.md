@@ -1,6 +1,6 @@
-### Hi there 👋
-### I'm curently learning Qt / c++ 🌱
-### Fun fact about me : ~In fact I'm a pigeon~ GuGuGu\~ :bird:
+### 👋 Hi there 
+### 🌱 I'm curently learning Qt / c++ 
+### 📫 How to reach me : navihx@foxmail.com 
 
 <!--
 **NaviHX/NaviHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
